@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on Procedural Generation & UI Design<br>👯 I’m looking to collaborate on Unity, C# & Python projects<br>🌱 I’m currently learning Flutter
+🔭 Currently doing full-stack courses <br>👯 I’m looking to collaborate on Unity, C# & Python projects<br>🌱 I’m currently learning databases (MySQL, Firebase)
 
 
 ## 🌐 Socials:
