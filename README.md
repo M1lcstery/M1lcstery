@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently doing full-stack courses <br>👯 I’m looking to collaborate on Unity, C# & Python projects<br>🌱 I’m currently learning databases (MySQL, Firebase)
+🔭 Currently doing full-stack courses <br>🌱 I’m currently learning Front-End development
 
 
 ## 🌐 Socials:
